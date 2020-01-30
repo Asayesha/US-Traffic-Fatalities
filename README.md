@@ -9,6 +9,10 @@ FARS contains data on a census of fatal traffic crashes within the 50 States, th
 ### Data source :
 https://www.kaggle.com/usdot/nhtsa-traffic-fatalities
 
+### Technologies :
+
+Python 3
+
 ### Insights :
 1. Number of accidents steadily increase from 10 am to 8 pm in the night and peak at around 7 pm.
 2. Non-juntions and four way intersections are most prone to accidents.
